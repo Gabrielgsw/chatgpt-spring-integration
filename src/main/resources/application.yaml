@@ -1,5 +1,5 @@
 openai:
     model: gpt-4o
     api:
-      key: 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
+      key: ${OPENAI_API_KEY}
       url: https://api.openai.com/v1/chat/completions
